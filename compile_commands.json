@@ -1,0 +1,110 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-std=c99",
+      "-O2",
+      "-Wall",
+      "-Wextra",
+      "-Wpedantic",
+      "-Iinclude",
+      "-c",
+      "-o",
+      "build/bot.o",
+      "src/bot.c"
+    ],
+    "directory": "/home/james/c/snake",
+    "file": "/home/james/c/snake/src/bot.c",
+    "output": "/home/james/c/snake/build/bot.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-std=c99",
+      "-O2",
+      "-Wall",
+      "-Wextra",
+      "-Wpedantic",
+      "-Iinclude",
+      "-c",
+      "-o",
+      "build/draw.o",
+      "src/draw.c"
+    ],
+    "directory": "/home/james/c/snake",
+    "file": "/home/james/c/snake/src/draw.c",
+    "output": "/home/james/c/snake/build/draw.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-std=c99",
+      "-O2",
+      "-Wall",
+      "-Wextra",
+      "-Wpedantic",
+      "-Iinclude",
+      "-c",
+      "-o",
+      "build/init.o",
+      "src/init.c"
+    ],
+    "directory": "/home/james/c/snake",
+    "file": "/home/james/c/snake/src/init.c",
+    "output": "/home/james/c/snake/build/init.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-std=c99",
+      "-O2",
+      "-Wall",
+      "-Wextra",
+      "-Wpedantic",
+      "-Iinclude",
+      "-c",
+      "-o",
+      "build/input.o",
+      "src/input.c"
+    ],
+    "directory": "/home/james/c/snake",
+    "file": "/home/james/c/snake/src/input.c",
+    "output": "/home/james/c/snake/build/input.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-std=c99",
+      "-O2",
+      "-Wall",
+      "-Wextra",
+      "-Wpedantic",
+      "-Iinclude",
+      "-c",
+      "-o",
+      "build/main.o",
+      "src/main.c"
+    ],
+    "directory": "/home/james/c/snake",
+    "file": "/home/james/c/snake/src/main.c",
+    "output": "/home/james/c/snake/build/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-std=c99",
+      "-O2",
+      "-Wall",
+      "-Wextra",
+      "-Wpedantic",
+      "-Iinclude",
+      "-c",
+      "-o",
+      "build/text.o",
+      "src/text.c"
+    ],
+    "directory": "/home/james/c/snake",
+    "file": "/home/james/c/snake/src/text.c",
+    "output": "/home/james/c/snake/build/text.o"
+  }
+]
